@@ -1,7 +1,9 @@
 # Ronan Pors - Développeur Web Fullstack JS
 
-## 👤 Profil
 Développeur Fullstack JS spécialisé en Backend, je suis passionné par l'apprentissage continu et la résolution de défis complexes. Rigoureux et collaboratif, j'aspire à atteindre mes objectifs avec efficacité. Je souhaite mettre mon investissement au profit de votre équipe et de votre entreprise.
+
+![RonanPors GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=RonanPors) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RonanPors&theme=react&hide_border=true&locale=fr&mode=weekly)](https://git.io/streak-stats)
 
 ## 🔭 I’m currently working on ...
 - Des projets de développement web pour divers clients, en mettant l'accent sur l'intégration de technologies modernes et performantes.
