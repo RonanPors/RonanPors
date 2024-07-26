@@ -4,7 +4,7 @@ Développeur Fullstack JS spécialisé en Backend, je suis passionné par l'appr
 
 <img src="https://github-readme-stats.vercel.app/api?username=RonanPors&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RonanPors&theme=react&locale=fr&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RonanPors)](https://git.io/streak-stats)
 
 ## 🔭 I’m currently working on ...
 - Des projets de développement web pour divers clients, en mettant l'accent sur l'intégration de technologies modernes et performantes.
