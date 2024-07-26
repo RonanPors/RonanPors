@@ -2,8 +2,6 @@
 
 Développeur Fullstack JS spécialisé en Backend, je suis passionné par l'apprentissage continu et la résolution de défis complexes. Rigoureux et collaboratif, j'aspire à atteindre mes objectifs avec efficacité. Je souhaite mettre mon investissement au profit de votre équipe et de votre entreprise.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonanPors)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RonanPors)](https://git.io/streak-stats)
 
 ## 🔭 I’m currently working on ...
