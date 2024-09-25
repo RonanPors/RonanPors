@@ -1,5 +1,7 @@
 # Ronan Pors - Fullstack JS Developer
 
+![Bannière]([https://url-de-ton-image/banner.png](https://media.licdn.com/dms/image/v2/D4E16AQG9r_SSweVXcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719346237050?e=1732752000&v=beta&t=Hh5qe8s0pE9yXCQgDMyh6zwRFepzJL-Zmx5iq04YTyE))
+
 Passionné par l'innovation technologique, je me spécialise en développement **Fullstack JS** avec une expertise orientée **Backend**. Mon objectif : concevoir des solutions créatives et robustes pour résoudre des problèmes complexes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RonanPors)](https://git.io/streak-stats)
@@ -16,7 +18,7 @@ Passionné par l'innovation technologique, je me spécialise en développement *
 
 ---
 
-## 📚 Projets
+## 🚀 Projets
 
 | **Nom du Projet**                | **Description**                                                                                   | **Lien**                              |
 |----------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------|
