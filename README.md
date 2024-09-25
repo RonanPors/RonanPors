@@ -82,7 +82,7 @@
       <img src="#" width="50" /> <strong>Lookout</strong>
     </td>
     <td>Outil open-source pour suivre et analyser les versions des packages installés avec indicateurs de criticité.</td>
-    <td><em>Repo en cours</em></td>
+    <td><a href="https://github.com/RonanPors/Lookout">Lookout</a></td>
   </tr>
   <tr>
     <td>
